@@ -3,7 +3,7 @@
 A **free** and **unlimited** API for Google Translate :dollar::no_entry_sign:
 
 ## Features 
-
+-Copied from (https://www.npmjs.com/package/google-translate-api) and fixed issue where code for punjabi language was 'ma' instead of 'pa'
 - Auto language detection
 - Spelling correction
 - Language correction 
